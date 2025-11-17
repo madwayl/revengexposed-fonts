@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Google Sans Code NF",
+  "previewText": "Google Sans Code NF ... blah ... blah ... blah ... from Google ... blah ... but with NF ... blah",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Italic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-SemiBold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-SemiBoldItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Light.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-LightItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-SemiBold.ttf?raw=1",
+    "ggmono-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/GoogleSansCodeNF/ttf/GoogleSansCodeNF-Regular.ttf?raw=1"
+  }
+}
