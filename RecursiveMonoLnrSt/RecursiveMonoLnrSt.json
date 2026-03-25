@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "Recursive Mono Linear",
+  "previewText": "Recursive Mono Linear ... blah ... blah ... blah ... from something Recursive ... blah ... but with NF not sure ... blah",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-ExBdItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Med.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-MedItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Italic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-SemiBold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-SmBdItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Med.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Light.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-LightItalic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-SemiBold.ttf?raw=1",
+    "ggmono-Normal": "https://github.com/madwayl/revengexposed-fonts/blob/main/RecursiveMonoLnrSt/ttf/RecursiveMonoLnrSt-Regular.ttf?raw=1"
+  }
+}
